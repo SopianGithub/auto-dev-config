@@ -22,8 +22,8 @@ This project provides a shell script to automate the setup of a development envi
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/SopianGithub/auto-dev-config.git
+   cd auto-dev-config
    ```
 
 2. **Make the script executable**:
